@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Quantum Computing</h1>
-
+ 
 <p align="center">
   <em>From zero to full-stack quantum programming: a structured, hands-on path through Qiskit, PennyLane and Qibo.</em>
 </p>
